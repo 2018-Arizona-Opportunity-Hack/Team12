@@ -1,0 +1,89 @@
+!Everything must import .csv!
+
+=DATA ANALYSIS= [Difficult, probably possible]
+Python code
+
+RealTimeSTEAM
+Animals and Humans in Disaster 
+    Help people survive disaster
+    A. Email
+    B. Text (one or two way) <===
+    C. Facebook messenger
+    D. Slack
+    Get information from people in disaster
+Neurologic Music Therapy Services of Arizona
+    Take surveys
+    Send and receive from 10000 people
+    Scan surveys
+    Survey via SMS, Messenger, Email
+    Reminders
+    Windows, Mac, and Mobile
+
+=THE ART OF TRACKING CLIENT PROGRESS= [Haaaaard, but might work once we start up]
+Track user information
+Find impact of investments
+User can define objects & attributes
+Can make objects
+Can make events that do things with objects
+Reports: show data about these things
+
+Will2Walk Foundations
+icm Food & Clothing Bank
+
+=INVENTORY MANAGEMENT= [Not that hard]
+
+Matthew's Crossing Food Bank
+    Provides food and backpacks to people in need
+    Make something more automated than Excel
+    So they can spend more time on things more important than inventory management
+
+=WEB SITE / SOCIAL MEDIA= [Seeeeems easy?]
+Social media outreach
+Better websites
+Increase presence on the internet
+
+Newtown
+Impact One
+Cici's Hope Center
+
+=SENDING CUSTOMIZED NOTIFICATIONS= [Prolly hard, but interesting, and could be really good]
+How can I effectively communicate with volunteers and clients
+Notification groups
+1-way notifications
+2-way notifications
+Send out in waves
+1-1500 recipients
+** Voice call
+** Text
+** Email
+* Slackbot
+* Facebook messaging
+Load contact info from spreadsheet (.csv)
+
+Rescue
+Children's Cancer Network
+Unlimited Potential
+
+=CUSTOMER / CLIENT DATA INSIGHTS= [Like tracking client progress, but worse]
+Make these different apps talk to each other
+Make a data analytics app
+
+Lost our Home
+    Rescue groups
+    Excel
+    Google Docs
+Tranquility Trail Animal Sanctuary
+    Excel
+
+=COMMUNICATION TO VOLUNTEERS= [Lots of different things to do]
+Track volunteer stuff
+
+Swift
+    Uses too many methods of communication
+    Social media
+    Email
+    E-news
+    Texing
+    Track who is working, and how many people for consistency
+Paz de Cristo
+    Provides meals
