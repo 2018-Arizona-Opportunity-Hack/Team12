@@ -11,9 +11,7 @@ http://impactone.pink/ <== To be deployed in the future
 Added Google Analytics to https://www.cecescenter.org/
 Added new requirments that csces reuqired,
 
-
 Directed them to:
 
 https://hootsuite.com/#
 https://youtu.be/Bn6h9VrfWw0
-
